@@ -2,4 +2,5 @@
 
 - Rumbo a: encontrar conocido secreto.
 
+- No se como mejorar mis botones e imagenes
   
